@@ -1,0 +1,32 @@
+.hero-container {
+    height: 100vh; /* Full viewport height */
+    background-image: url('../assets/pexels-robin-stickel-70497.jpg'); /* Replace with your background image path */
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the image */
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    text-align: center; /* Center text */
+    color: white; /* Text color */
+  }
+  
+  .hero-content {
+    background-color: rgba(0, 0, 0, 0.5); /* Dark background with transparency for readability */
+    padding: 20px; /* Padding around the content */
+    border-radius: 10px; /* Rounded corners */
+  }
+  
+  h1 {
+    font-size: 3rem; /* Adjust as needed */
+    margin: 0; /* Remove default margin */
+  }
+  
+  p {
+    font-size: 1.5rem; /* Adjust as needed */
+    margin: 20px 0; /* Space around the paragraph */
+  }
+  
+  .btn {
+    margin-top: 10px; /* Space above the button */
+  }
+  

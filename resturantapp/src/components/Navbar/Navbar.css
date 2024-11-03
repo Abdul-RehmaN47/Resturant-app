@@ -1,0 +1,27 @@
+/* src/App.css */
+.navbar {
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem; /* Larger brand font */
+    color: #333; /* Dark text for better visibility */
+  }
+  
+  .nav-link {
+    color: #007bff; /* Bootstrap primary color for links */
+  }
+  
+  .nav-link:hover {
+    color: #0056b3; /* Darker shade on hover */
+  }
+  
+  .form-control {
+    width: 200px; /* Adjust width of search bar */
+  }
+  
+  .btn-outline-success {
+    color: #28a745; /* Green button color */
+  }
+ 
+  
